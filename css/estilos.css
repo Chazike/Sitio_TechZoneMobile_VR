@@ -3,3 +3,10 @@ nav a:hover{
     text-decoration-color: blue;
 }
 
+main{
+    background-image: url(https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-54587.jpg?t=st=1713739013~exp=1713742613~hmac=3a90ef7238365598b95b94adb31fa3dd507dd035e2d82eb6455c77d7a4f5c41a&w=740);
+}
+
+footer{
+    background-color: #012E6F;
+}
